@@ -1,0 +1,22 @@
+[
+  {
+    "text": "tôi bị đau răng",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "tôi đang rất đau răng",
+    "sentiment": "negative"
+  },
+  {
+    "text": "có phương pháp nào giảm đau tạm thời được không Tôi không đi bác sĩ",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Tôi đang ở đâu rồi cảm ơn bạn rất nhiều",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Tôi đỡ đau rồi cảm ơn bạn rất nhiều",
+    "sentiment": "positive"
+  }
+]
