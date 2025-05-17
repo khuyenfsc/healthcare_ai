@@ -22,6 +22,11 @@ Run the following commands to clone the repository:
 `cd tts`</br>
 `git clone https://github.com/NTT123/vietTTS.git`</br>
 This will clone the VietTTS repository into the tts/ directory.
+## 3. Run the FastAPI Server with Uvicorn
 
+After installing the dependencies and cloning the VietTTS repository, you can start the FastAPI server using Uvicorn.
+Run the following command from the root directory of the project:
 
-
+`python -m uvicorn main:app --reload`</br>
+After running this command, the server will be available at:
+`http://127.0.0.1:8000`</br>
